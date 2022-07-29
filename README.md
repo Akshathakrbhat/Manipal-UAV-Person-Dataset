@@ -1,4 +1,4 @@
-# <center>MIT-UAV-Person Dataset</center>
+# <center>Manipal-UAV-Person Dataset</center>
 ### <center>Large scale UAV dataset for Person detection </center>
 
 <p align="justify"> Intelligent UAV video analysis has drawn the attention of a large number of researchers due to the increasing popularity of unmanned aerial vehicles in computer vision-related applications. Drones being used in applications like search and rescue, surveillance and military applications, demands automatic detection of human targets in large-scale images/videos recorded by UAVs. Small object sizes, large scale variations, dense distribution of objects, arbitrary orientations, class imbalance etc. are the major challenges exists in UAV-based small object detection. </p>
