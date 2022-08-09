@@ -9,13 +9,13 @@
 <i> The sample images of our dataset with the annotations are shown below.</i>
 
 
-| 10m height image <img src="Test%20Samples/10_IC_P1_frame_000970.png" width="360"> | 20m height image <img src="Test%20Samples/20_RD_P1_frame_000290.png" width="360"> |
+| 10m height image <img src="readmeAssets/10_IC_P1_frame_000970.png" width="360"> | 20m height image <img src="readmeAssets/20_RD_P1_frame_000290.png" width="360"> |
 |--------|-------|
 
-| 30m height image <img src="Test%20Samples/30_VGT_P1_frame_001550.png" width="360"> | 40m height image <img src="Test%20Samples/40_RD_P2_frame_001780.png" width="360"> |
+| 30m height image <img src="readmeAssets/30_VGT_P1_frame_001550.png" width="360"> | 40m height image <img src="readmeAssets/40_RD_P2_frame_001780.png" width="360"> |
 |--------|-------|
 
-| 50m height image <img src="Test%20Samples/50_GND_P2_frame_003210.png" width="360"> | Low Light image <img src="Test%20Samples/lowlight_10_P2_frame_004160.png" width="360"> |
+| 50m height image <img src="readmeAssets/50_GND_P2_frame_003210.png" width="360"> | Low Light image <img src="readmeAssets/lowlight_10_P2_frame_004160.png" width="360"> |
 |--------|-------|
 
 
