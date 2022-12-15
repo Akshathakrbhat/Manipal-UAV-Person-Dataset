@@ -30,11 +30,13 @@
 
 * The dataset can be used only for<b> academic or research purposes </b>only (not to be used for commercial applications).
 
-* To access the dataset, please fill the [MS Form](https://forms.office.com/r/qHy7yMbZwK). The link to download the dataset shall be shared to your email address.
+* To access the dataset, please fill the [MS Form](https://forms.office.com/r/qHy7yMbZwK) and send a mail to akshatha.kr@manipal.edu. The link to the dataset will be shared to your email address.
 
 * If you use this dataset in your work, please cite us using the following information.
 
 ``` citation
-TBD
+Akshatha, K. R., Karunakar, A. K., Shenoy, S., Phani, P. K., Dhareshwar, C. V., & Johnson, D. G. (2023).
+Manipal-UAV person detection dataset: A step towards benchmarking dataset and algorithms for small object detection.
+ISPRS Journal of Photogrammetry and Remote Sensing, 195, 77-89.
 
 ```
