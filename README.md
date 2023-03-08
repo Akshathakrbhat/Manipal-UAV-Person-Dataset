@@ -32,6 +32,8 @@
 
 * To access the dataset, please fill the [MS Form](https://forms.office.com/r/qHy7yMbZwK) and send a mail to akshatha.kr@manipal.edu. The link to the dataset will be shared to your email address.
 
+* Also note that there are some formalities and permissions pending from our university related to data sharing, which may take upto 6 months. Any inconvenience caused is regretted.
+
 * If you use this dataset in your work, please cite us using the following information.
 
 ``` citation
